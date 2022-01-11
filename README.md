@@ -1,0 +1,5 @@
+- 👋 Hi, My name is Thiago Pinheiro, but you can call me @fogoio.
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently learning about Spring Ecosystem and Quarkus.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 You can contact me via email at fogoio.dev@gmail.com.
